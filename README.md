@@ -35,6 +35,30 @@ Dataset Size:
 - 252,056 rows
 - 10 columns
 
+Dataset
+
+Due to GitHub file size limitations, the complete dataset is hosted externally on Google Drive.
+
+This dataset contains real-world beauty product review data used for exploratory data analysis, preprocessing, sentiment analysis, and customer insight extraction. The data includes product information, user reviews, ratings, review text, timestamps, and related metadata useful for NLP and recommendation-system projects.
+
+Download Dataset
+
+Add your Google Drive link here:
+
+[Download Dataset](https://drive.google.com/file/d/1b8vkQVZrg8g9ulYRG6Z9-Kr9s12Mo1Ko/view?usp=drive_link)
+File Information
+Format:zip -> CSV
+Dataset Type: Beauty Product Reviews
+Use Cases:
+Exploratory Data Analysis (EDA)
+Sentiment Analysis
+Recommendation Systems
+Customer Behavior Analysis
+NLP Project
+Note
+
+The dataset is hosted externally because the file size exceeds GitHub’s upload limits.
+
 ---
 
 # Technologies Used
